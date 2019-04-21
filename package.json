@@ -1,6 +1,6 @@
 {
   "name": "coloc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repo": "WestleyR/colorc",
   "description": "A Simple Header File To Provide Color Printing",
   "keywords": ["color", "colorc", "print", "coloring", "header"],
